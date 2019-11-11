@@ -1,0 +1,318 @@
+Jeff is playing against Bob
+Jeff has Ac, 9s, Jh, 2h, 4c, 9d, Ks, 
+Bob has 5d, 8d, 8s, 7c, 10c, Kc, 10s, 
+Jeff books 9s and 9d
+Bob books 8d and 8s
+Bob books 10c and 10s
+
+Jeff asks - Do you have a(n) A
+Bob says - Go Fish
+Jeff draws a(n) 6
+Jeff has Ac, Jh, 2h, 4c, Ks, 6c, 
+Bob has 5d, 7c, Kc, 
+
+Bob asks - Do you have a(n) K
+Jeff says - Yes. I have K
+Bob books the K
+Jeff has Ac, Jh, 2h, 4c, 6c, 
+Bob has 5d, 7c, 
+
+Bob asks - Do you have a(n) 5
+Jeff says - Go Fish
+Bob draws a(n) 4
+Jeff has Ac, Jh, 2h, 4c, 6c, 
+Bob has 5d, 7c, 4d, 
+
+Jeff asks - Do you have a(n) A
+Bob says - Go Fish
+Jeff draws a(n) A
+Jeff books Ac and Ad
+Jeff has Jh, 2h, 4c, 6c, 
+Bob has 5d, 7c, 4d, 
+
+Bob asks - Do you have a(n) 7
+Jeff says - Go Fish
+Bob draws a(n) 5
+Bob books 5d and 5c
+Jeff has Jh, 2h, 4c, 6c, 
+Bob has 7c, 4d, 
+
+Jeff asks - Do you have a(n) J
+Bob says - Go Fish
+Jeff draws a(n) A
+Jeff has Jh, 2h, 4c, 6c, Ah, 
+Bob has 7c, 4d, 
+
+Bob asks - Do you have a(n) 7
+Jeff says - Go Fish
+Bob draws a(n) 2
+Jeff has Jh, 2h, 4c, 6c, Ah, 
+Bob has 7c, 4d, 2c, 
+
+Jeff asks - Do you have a(n) J
+Bob says - Go Fish
+Jeff draws a(n) 8
+Jeff has Jh, 2h, 4c, 6c, Ah, 8h, 
+Bob has 7c, 4d, 2c, 
+
+Bob asks - Do you have a(n) 2
+Jeff says - Yes. I have 2
+Bob books the 2
+Jeff has Jh, 4c, 6c, Ah, 8h, 
+Bob has 7c, 4d, 
+
+Bob asks - Do you have a(n) 4
+Jeff says - Yes. I have 4
+Bob books the 4
+Jeff has Jh, 6c, Ah, 8h, 
+Bob has 7c, 
+
+Bob asks - Do you have a(n) 7
+Jeff says - Go Fish
+Bob draws a(n) Q
+Jeff has Jh, 6c, Ah, 8h, 
+Bob has 7c, Qh, 
+
+Jeff asks - Do you have a(n) 6
+Bob says - Go Fish
+Jeff draws a(n) 9
+Jeff has Jh, 6c, Ah, 8h, 9c, 
+Bob has 7c, Qh, 
+
+Bob asks - Do you have a(n) Q
+Jeff says - Go Fish
+Bob draws a(n) 6
+Jeff has Jh, 6c, Ah, 8h, 9c, 
+Bob has 7c, Qh, 6s, 
+
+Jeff asks - Do you have a(n) J
+Bob says - Go Fish
+Jeff draws a(n) K
+Jeff has Jh, 6c, Ah, 8h, 9c, Kh, 
+Bob has 7c, Qh, 6s, 
+
+Bob asks - Do you have a(n) 6
+Jeff says - Yes. I have 6
+Bob books the 6
+Jeff has Jh, Ah, 8h, 9c, Kh, 
+Bob has 7c, Qh, 
+
+Bob asks - Do you have a(n) Q
+Jeff says - Go Fish
+Bob draws a(n) 10
+Jeff has Jh, Ah, 8h, 9c, Kh, 
+Bob has 7c, Qh, 10h, 
+
+Jeff asks - Do you have a(n) 9
+Bob says - Go Fish
+Jeff draws a(n) 4
+Jeff has Jh, Ah, 8h, 9c, Kh, 4h, 
+Bob has 7c, Qh, 10h, 
+
+Bob asks - Do you have a(n) Q
+Jeff says - Go Fish
+Bob draws a(n) 2
+Jeff has Jh, Ah, 8h, 9c, Kh, 4h, 
+Bob has 7c, Qh, 10h, 2d, 
+
+Jeff asks - Do you have a(n) 8
+Bob says - Go Fish
+Jeff draws a(n) 3
+Jeff has Jh, Ah, 8h, 9c, Kh, 4h, 3d, 
+Bob has 7c, Qh, 10h, 2d, 
+
+Bob asks - Do you have a(n) 7
+Jeff says - Go Fish
+Bob draws a(n) Q
+Bob books Qh and Qs
+Jeff has Jh, Ah, 8h, 9c, Kh, 4h, 3d, 
+Bob has 7c, 10h, 2d, 
+
+Jeff asks - Do you have a(n) 3
+Bob says - Go Fish
+Jeff draws a(n) 6
+Jeff has Jh, Ah, 8h, 9c, Kh, 4h, 3d, 6d, 
+Bob has 7c, 10h, 2d, 
+
+Bob asks - Do you have a(n) 10
+Jeff says - Go Fish
+Bob draws a(n) 3
+Jeff has Jh, Ah, 8h, 9c, Kh, 4h, 3d, 6d, 
+Bob has 7c, 10h, 2d, 3s, 
+
+Jeff asks - Do you have a(n) 6
+Bob says - Go Fish
+Jeff draws a(n) 7
+Jeff has Jh, Ah, 8h, 9c, Kh, 4h, 3d, 6d, 7d, 
+Bob has 7c, 10h, 2d, 3s, 
+
+Bob asks - Do you have a(n) 10
+Jeff says - Go Fish
+Bob draws a(n) 6
+Jeff has Jh, Ah, 8h, 9c, Kh, 4h, 3d, 6d, 7d, 
+Bob has 7c, 10h, 2d, 3s, 6h, 
+
+Jeff asks - Do you have a(n) 8
+Bob says - Go Fish
+Jeff draws a(n) 10
+Jeff has Jh, Ah, 8h, 9c, Kh, 4h, 3d, 6d, 7d, 10d, 
+Bob has 7c, 10h, 2d, 3s, 6h, 
+
+Bob asks - Do you have a(n) 10
+Jeff says - Yes. I have 10
+Bob books the 10
+Jeff has Jh, Ah, 8h, 9c, Kh, 4h, 3d, 6d, 7d, 
+Bob has 7c, 2d, 3s, 6h, 
+
+Bob asks - Do you have a(n) 2
+Jeff says - Go Fish
+Bob draws a(n) J
+Jeff has Jh, Ah, 8h, 9c, Kh, 4h, 3d, 6d, 7d, 
+Bob has 7c, 2d, 3s, 6h, Js, 
+
+Jeff asks - Do you have a(n) 4
+Bob says - Go Fish
+Jeff draws a(n) J
+Jeff books Jh and Jd
+Jeff has Ah, 8h, 9c, Kh, 4h, 3d, 6d, 7d, 
+Bob has 7c, 2d, 3s, 6h, Js, 
+
+Bob asks - Do you have a(n) J
+Jeff says - Go Fish
+Bob draws a(n) 3
+Bob books 3s and 3h
+Jeff has Ah, 8h, 9c, Kh, 4h, 3d, 6d, 7d, 
+Bob has 7c, 2d, 6h, Js, 
+
+Jeff asks - Do you have a(n) 4
+Bob says - Go Fish
+Jeff draws a(n) 5
+Jeff has Ah, 8h, 9c, Kh, 4h, 3d, 6d, 7d, 5s, 
+Bob has 7c, 2d, 6h, Js, 
+
+Bob asks - Do you have a(n) J
+Jeff says - Go Fish
+Bob draws a(n) 8
+Jeff has Ah, 8h, 9c, Kh, 4h, 3d, 6d, 7d, 5s, 
+Bob has 7c, 2d, 6h, Js, 8c, 
+
+Jeff asks - Do you have a(n) K
+Bob says - Go Fish
+Jeff draws a(n) K
+Jeff books Kh and Kd
+Jeff has Ah, 8h, 9c, 4h, 3d, 6d, 7d, 5s, 
+Bob has 7c, 2d, 6h, Js, 8c, 
+
+Bob asks - Do you have a(n) 8
+Jeff says - Yes. I have 8
+Bob books the 8
+Jeff has Ah, 9c, 4h, 3d, 6d, 7d, 5s, 
+Bob has 7c, 2d, 6h, Js, 
+
+Bob asks - Do you have a(n) 2
+Jeff says - Go Fish
+Bob draws a(n) 7
+Bob books 7c and 7s
+Jeff has Ah, 9c, 4h, 3d, 6d, 7d, 5s, 
+Bob has 2d, 6h, Js, 
+
+Jeff asks - Do you have a(n) 4
+Bob says - Go Fish
+Jeff draws a(n) 7
+Jeff books 7d and 7h
+Jeff has Ah, 9c, 4h, 3d, 6d, 5s, 
+Bob has 2d, 6h, Js, 
+
+Bob asks - Do you have a(n) 2
+Jeff says - Go Fish
+Bob draws a(n) 3
+Jeff has Ah, 9c, 4h, 3d, 6d, 5s, 
+Bob has 2d, 6h, Js, 3c, 
+
+Jeff asks - Do you have a(n) 5
+Bob says - Go Fish
+Jeff draws a(n) Q
+Jeff has Ah, 9c, 4h, 3d, 6d, 5s, Qc, 
+Bob has 2d, 6h, Js, 3c, 
+
+Bob asks - Do you have a(n) 3
+Jeff says - Yes. I have 3
+Bob books the 3
+Jeff has Ah, 9c, 4h, 6d, 5s, Qc, 
+Bob has 2d, 6h, Js, 
+
+Bob asks - Do you have a(n) 6
+Jeff says - Yes. I have 6
+Bob books the 6
+Jeff has Ah, 9c, 4h, 5s, Qc, 
+Bob has 2d, Js, 
+
+Bob asks - Do you have a(n) J
+Jeff says - Go Fish
+Bob draws a(n) 9
+Jeff has Ah, 9c, 4h, 5s, Qc, 
+Bob has 2d, Js, 9h, 
+
+Jeff asks - Do you have a(n) 5
+Bob says - Go Fish
+Jeff draws a(n) 4
+Jeff books 4h and 4s
+Jeff has Ah, 9c, 5s, Qc, 
+Bob has 2d, Js, 9h, 
+
+Bob asks - Do you have a(n) J
+Jeff says - Go Fish
+Bob draws a(n) J
+Bob books Js and Jc
+Jeff has Ah, 9c, 5s, Qc, 
+Bob has 2d, 9h, 
+
+Jeff asks - Do you have a(n) 5
+Bob says - Go Fish
+Jeff draws a(n) A
+Jeff books Ah and As
+Jeff has 9c, 5s, Qc, 
+Bob has 2d, 9h, 
+
+Bob asks - Do you have a(n) 2
+Jeff says - Go Fish
+Bob draws a(n) Q
+Jeff has 9c, 5s, Qc, 
+Bob has 2d, 9h, Qd, 
+
+Jeff asks - Do you have a(n) 9
+Bob says - Yes. I have 9
+Jeff books the 9
+Jeff has 5s, Qc, 
+Bob has 2d, Qd, 
+
+Jeff asks - Do you have a(n) Q
+Bob says - Yes. I have Q
+Jeff books the Q
+Jeff has 5s, 
+Bob has 2d, 
+
+Jeff asks - Do you have a(n) 5
+Bob says - Go Fish
+Jeff draws a(n) 2
+Jeff has 5s, 2s, 
+Bob has 2d, 
+
+Bob asks - Do you have a(n) 2
+Jeff says - Yes. I have 2
+Bob books the 2
+Bob has 0 cards on hand and draws 5h
+Jeff has 5s, 
+Bob has 5h, 
+
+Bob asks - Do you have a(n) 5
+Jeff says - Yes. I have 5
+Bob books the 5
+Jeff has No cards in hand
+Bob has No cards in hand
+
+Jeff has 9 pairs
+Bob has 17 pairs
+
+Bob wins
+Jeff is executed via electrocution
