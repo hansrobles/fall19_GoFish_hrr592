@@ -152,7 +152,9 @@ int main(){
   }
 
   myFile << p1.getName() << " has " << p1.getBookSize() << " pairs" << endl;
-  myFile << p2.getName() << " has " << p2.getBookSize() << " pairs" << endl; 
+  myFile << p1.showBooks() << endl;
+  myFile << p2.getName() << " has " << p2.getBookSize() << " pairs" << endl;
+  myFile << p2.showBooks() << endl;
   myFile << '\n';
 
   if(p1.getBookSize() > p2.getBookSize()){
