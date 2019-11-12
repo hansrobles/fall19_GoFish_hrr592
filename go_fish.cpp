@@ -60,6 +60,7 @@ int main(){
 
   Player *playerPoint = &p1;                                                 //used to switch between players
   Card pickCard;                                                             //placeholder for cards
+  Card cardHold;
 
   //defines the parameters to keep the game going
   while((deck.size() != 0)||(p1.getHandSize() != 0)||(p2.getHandSize() != 0)){
@@ -82,6 +83,13 @@ int main(){
     if((*playerPoint).cardInHand(pickCard)){
       myFile << (*playerPoint).getName() << " says - Yes. I have " << pickCard.rankString(pickCard.getRank()) << endl;
       pickCard = (*playerPoint).removeCardFromHand(pickCard);
+  
+      //prevents this player from having zero cards in hand
+      if(((*playerPoint).getHandSize() == 0)&&(deck.size() != 0)){
+        cardHold = deck.dealCard();
+        myFile << (*playerPoint).getName() << " has 0 cards on hand and draws " << cardHold << endl;
+        (*playerPoint).addCard(cardHold);
+      }
       
       if((*playerPoint).showHand() == p1.showHand()){playerPoint = &p2;}else{playerPoint = &p1;};
      
